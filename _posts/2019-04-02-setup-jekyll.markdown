@@ -34,3 +34,14 @@ github에서 pull request 버튼을 눌러 소유자(benah13yun)에게 알린다
 소유자는 pull requests에서 merge pull request를 눌러 master에 병합한다.
 물론 안할수도 있다.
 </pre>
+
+<pre>
+
+[참고]
+
+git branch -l
+git branch -d [branchName]
+
+https://git-scm.com/book/ko/v2/GitHub-GitHub-프로젝트에-기여하기
+
+</pre>
