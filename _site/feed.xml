@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/dev/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/dev/" rel="alternate" type="text/html" /><updated>2019-04-04T11:09:54+09:00</updated><id>http://localhost:4000/dev/feed.xml</id><title type="html">test0</title><subtitle>For M.</subtitle><entry><title type="html">github.io &amp;amp; Jekyll 2</title><link href="http://localhost:4000/dev/jekyll/github.io/2019/04/02/setup-jekyll.html" rel="alternate" type="text/html" title="github.io &amp; Jekyll 2" /><published>2019-04-02T22:17:55+09:00</published><updated>2019-04-02T22:17:55+09:00</updated><id>http://localhost:4000/dev/jekyll/github.io/2019/04/02/setup-jekyll</id><content type="html" xml:base="http://localhost:4000/dev/jekyll/github.io/2019/04/02/setup-jekyll.html">&lt;h3&gt;github.io(블로그)를 만들면서 jekyll, git, github를 배워보자 1&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/dev/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/dev/" rel="alternate" type="text/html" /><updated>2019-04-05T22:23:19+09:00</updated><id>http://localhost:4000/dev/feed.xml</id><title type="html">test0</title><subtitle>For M.</subtitle><entry><title type="html">Jekyll Markdown Kramdown</title><link href="http://localhost:4000/dev/jekyll/markdown/kramdown/2019/04/05/jekyll-markdown-kramdown.html" rel="alternate" type="text/html" title="Jekyll Markdown Kramdown" /><published>2019-04-05T22:17:55+09:00</published><updated>2019-04-05T22:17:55+09:00</updated><id>http://localhost:4000/dev/jekyll/markdown/kramdown/2019/04/05/jekyll-markdown-kramdown</id><content type="html" xml:base="http://localhost:4000/dev/jekyll/markdown/kramdown/2019/04/05/jekyll-markdown-kramdown.html">&lt;p&gt;Jekyll의 기본테마 마크다운은 kramdown이다.
+_config.yml을 보면 확인할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;http://gjchoi.github.io/env/Kramdown(마크다운)-사용법/&lt;/p&gt;</content><author><name></name></author><summary type="html">Jekyll의 기본테마 마크다운은 kramdown이다. _config.yml을 보면 확인할 수 있다.</summary></entry><entry><title type="html">github.io &amp;amp; Jekyll 3</title><link href="http://localhost:4000/dev/jekyll/github.io/2019/04/04/setup-jekyll.html" rel="alternate" type="text/html" title="github.io &amp; Jekyll 3" /><published>2019-04-04T22:17:55+09:00</published><updated>2019-04-04T22:17:55+09:00</updated><id>http://localhost:4000/dev/jekyll/github.io/2019/04/04/setup-jekyll</id><content type="html" xml:base="http://localhost:4000/dev/jekyll/github.io/2019/04/04/setup-jekyll.html">&lt;h3&gt;github.io(블로그)를 만들면서 jekyll, git, github를 배워보자 3&lt;/h3&gt;
+
+&lt;pre&gt;
+git 명령어를 정리한다.
+
+*주의사항*
+빈 디렉토리는 포함되지 않는다.
+Head는 현재 브랜치의 가장 최신커밋을 의미함.
+원격저장소의 이름은 origin이다.
+
+공통옵션
+-n, --dry-run : 테스트를 한다.
+-v, --verbose : 한 번 더 확인한다. ?
+
+&lt;/pre&gt;
+&lt;pre&gt;
+Commands
+
+git add
+
+git commit 로컬저장소에 올린다.
+git fetch 로컬저장소에서 받는다.
+
+git push 원격저장소에 올린다.
+git pull 원격저장소에서 받는다.
+
+git clone
+git remote
+&lt;/pre&gt;</content><author><name></name></author><summary type="html">github.io(블로그)를 만들면서 jekyll, git, github를 배워보자 3</summary></entry><entry><title type="html">github.io &amp;amp; Jekyll 2</title><link href="http://localhost:4000/dev/jekyll/github.io/2019/04/02/setup-jekyll.html" rel="alternate" type="text/html" title="github.io &amp; Jekyll 2" /><published>2019-04-02T22:17:55+09:00</published><updated>2019-04-02T22:17:55+09:00</updated><id>http://localhost:4000/dev/jekyll/github.io/2019/04/02/setup-jekyll</id><content type="html" xml:base="http://localhost:4000/dev/jekyll/github.io/2019/04/02/setup-jekyll.html">&lt;h3&gt;github.io(블로그)를 만들면서 jekyll, git, github를 배워보자 1&lt;/h3&gt;
 
 &lt;p&gt;두 개의 계정으로 작업을 한다. benah13yun, eaaaaasy&lt;br /&gt;
 benah13yun은 사이트의 주인이며 eaaaaasy는 협력자이다.&lt;br /&gt;&lt;/p&gt;
@@ -116,4 +147,4 @@ You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">github.io(블로그)를 만들면서 jekyll, git, github를 배워보자 1</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">github.io(블로그)를 만들면서 jekyll, git, github를 배워보자 1</summary></entry><entry><title type="html">writing..</title><link href="http://localhost:4000/dev/jekyll/github.io/2000/04/04/jekyll.html" rel="alternate" type="text/html" title="writing.." /><published>2000-04-04T22:17:55+09:00</published><updated>2000-04-04T22:17:55+09:00</updated><id>http://localhost:4000/dev/jekyll/github.io/2000/04/04/jekyll</id><content type="html" xml:base="http://localhost:4000/dev/jekyll/github.io/2000/04/04/jekyll.html"></content><author><name></name></author><summary type="html"></summary></entry></feed>
